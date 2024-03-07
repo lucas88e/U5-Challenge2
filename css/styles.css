@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+color:white}
+
+#content{
+    margin: 50px;
+    text-align: center;
+    height: 500px;
+    font-size: 25px;
+    padding: 5px;
+}
+#frase{
+    text-align: center;
+    
+}
+body{
+background-color: blue;
+color: white;
+}
+#btnReestablecer{
+    position: relative;
+    top:3rem;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: brown;
+    font-weight: bold;
+}
+#btnReestablecer:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#img{
+width:25%
+;
+height: 25%;
+}
